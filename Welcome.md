@@ -1,7 +1,16 @@
-# Home
+# CORE Retail Lite
+> A Roblox system to improve realism by simulating interactivity within a supermarket
 
- The **CORE Supermarket System** is a easy-to-use modular foundation for creating dynamic interactive supermarkets for Roblox.
+## What it is
 
-It provides a core for essiential supermarket modules such as **Click-To-Get, Restocking, Stock Mangement** and other modules.
-These modules can be plugged in any order to offer the most amount of customisability and flexiblity for your custom supermarket.
+**CORE Retail Lite** is a easy-to-use Open-Source Roblox System for creating dynamic & interactive supermarkets for Roblox.
 
+## What it contains
+
+It provides essiental supermarket features such as:
+- **Click To Get**
+- **Trolley System**
+- **Restocking System**
+- **Price Tag System**
+
+The system contains `Configuration` offering customisability within your game.

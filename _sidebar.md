@@ -2,11 +2,10 @@
 
 * **Getting Started**
 ** [Home](Welcome.md)
-** [Download](Download.md)
-* **CORE**
-** [CORE]()
-* **Modules**
+** [Quick Start](QuickStart.md)
+** [Configuration](configuration.md)
+* **Features**
 ** [Overview](Overview.md)
-** [Price Tags](/Modules/PriceTagModule/About.md)
 * **Updates**
 ** [Changelog](Changelog.md)
+** [Upcoming Features](Changelog.md)
